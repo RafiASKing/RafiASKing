@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafiASKing
 - 👀 I’m interested in AI and Data Engineering + Molecular Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Everthing
+- 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me, you can message me on LinkedIn
 
 <!---
