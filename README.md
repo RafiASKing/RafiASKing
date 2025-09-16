@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @RafiASKing
 - 👀 I’m interested in Computational Chemistry/Sciences
+- Also AI (world model)
+- but also play with LLMs sometimes
